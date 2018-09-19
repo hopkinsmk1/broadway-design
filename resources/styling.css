@@ -35,3 +35,20 @@ h3 {
 .design h3 {
   color: white;
 }
+
+.footer li {
+  display: inline-block;
+}
+
+ul {
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  background-color: dimgray;
+  font-size: 11px;
+}
+
+ul a {
+  color: white;
+  font-size: 18px;
+}
